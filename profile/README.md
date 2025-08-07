@@ -33,7 +33,7 @@ pnpm create h3ravel
 
 ## Documentation
 
-More information can be found in the [documentations](#!).
+More information can be found in the [documentations](https://h3ravel.toneflix.net).
 
 [d1]: https://img.shields.io/npm/dt/%40h3ravel%2Fcore?style=flat-square&label=Downloads&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40h3ravel%2Fcore
 [ix]: https://img.shields.io/npm/v/%40h3ravel%2Fcore?style=flat-square&label=Framework&color=%230970ce
