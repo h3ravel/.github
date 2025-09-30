@@ -1,6 +1,6 @@
 <p align="center"><a href="https://h3ravel.toneflix.net" target="_blank"><img src="https://raw.githubusercontent.com/h3ravel/assets/refs/heads/main/logo-full.svg" width="400" alt="H3ravel Logo"></a></p>
 
-[![Framework Downloads][d1]][d1]
+[![Framework Downloads][d1]][lx]
 [![Framework][ix]][lx] 
 [![Arquebus Downloads][daq]][laq]
 [![Arquebus ORM][iaq]][laq]
