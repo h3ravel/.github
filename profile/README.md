@@ -1,9 +1,16 @@
 <p align="center"><a href="https://h3ravel.toneflix.net" target="_blank"><img src="https://raw.githubusercontent.com/h3ravel/assets/refs/heads/main/logo-full.svg" width="400" alt="H3ravel Logo"></a></p>
 
-[![Framework Downloads][d1]][lx]
-[![Framework][ix]][lx] 
+[![Downloads][d1]][lx]
+[![Framework][ix]][lx]
 [![Arquebus Downloads][daq]][laq]
-[![Arquebus ORM][iaq]][laq]
+[![Arquebus ORM][i12]][l12]
+[![Musket Downloads][iMus]][lMus]
+[![Musket CLI][i13]][l13]
+[![URL Package Downloads][iUrl]][lUrl]
+[![URL Package][i14]][l14]
+[![View Package][i15]][l15]
+[![Hashing Package Downloads][iHas]][lHas]
+[![Hashing Package][i16]][l16]
 [![Cache Package Version][i2]][l2]
 [![Config Package Version][i3]][l3]
 [![Console Package Version][i4]][l4]
@@ -12,8 +19,12 @@
 [![Mail Package Version][i7]][l7]
 [![Queue Package Version][i8]][l8]
 [![Router Package Version][i9]][l9]
+[![Shared Package Downloads][iSha]][lSha]
 [![Shared Package Version][i10]][l10]
+[![Support Package Downloads][iSup]][lSup]
 [![Support Package Version][i11]][l11]
+[![Tests][tei]][tel]
+[![License][lini]][linl]
 
 <p align="justify">H3ravel is a modern TypeScript runtime-agnostic web framework built on top of <a href="https://h3.dev" target="_blank">H3</a>, designed to bring the elegance and developer experience of <a href="https://laravel.com" target="_blank">Laravel</a> to the JavaScript ecosystem.</p>
 
@@ -58,9 +69,11 @@ Here is a quick list of technologies that having a prior knowledge of would give
 
 You can read the [Contribution Guide](https://h3ravel.toneflix.net/contributing) for a more detailed breakdown of requirements.
 
+[laq]: https://www.npmjs.com/package/@h3ravel/arquebus
+[daq]: https://img.shields.io/npm/dt/%40h3ravel%2Farquebus?style=flat-square&label=Arquebus++&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40h3ravel%2Farquebus
 [d1]: https://img.shields.io/npm/dt/%40h3ravel%2Fcore?style=flat-square&label=Framework+Downloads&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40h3ravel%2Fcore
 [ix]: https://img.shields.io/npm/v/%40h3ravel%2Fcore?style=flat-square&label=Framework&color=%230970ce
-[lx]: https://www.npmjs.com/package/@h3ravel/core 
+[lx]: https://www.npmjs.com/package/@h3ravel/core
 [i2]: https://img.shields.io/npm/v/%40h3ravel%2Fcache?style=flat-square&label=@h3ravel/cache&color=%230970ce
 [l2]: https://www.npmjs.com/package/@h3ravel/cache
 [i3]: https://img.shields.io/npm/v/%40h3ravel%2Fconfig?style=flat-square&label=@h3ravel/config&color=%230970ce
@@ -81,6 +94,27 @@ You can read the [Contribution Guide](https://h3ravel.toneflix.net/contributing)
 [l10]: https://www.npmjs.com/package/@h3ravel/shared
 [i11]: https://img.shields.io/npm/v/%40h3ravel%2Fsupport?style=flat-square&label=@h3ravel/support&color=%230970ce
 [l11]: https://www.npmjs.com/package/@h3ravel/support
-[iaq]: https://img.shields.io/npm/v/%40h3ravel%2Farquebus?style=flat-square&label=@h3ravel/arquebus&color=%230970ce
-[laq]: https://www.npmjs.com/package/@h3ravel/arquebus
-[daq]: https://img.shields.io/npm/dt/%40h3ravel%2Farquebus?style=flat-square&label=Arquebus+Downloads&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40h3ravel%2Farquebus
+[i12]: https://img.shields.io/npm/v/%40h3ravel%2Farquebus?style=flat-square&label=@h3ravel/arquebus&color=%230970ce
+[l12]: https://www.npmjs.com/package/@h3ravel/arquebus
+[i13]: https://img.shields.io/npm/v/%40h3ravel%2Fmusket?style=flat-square&label=@h3ravel/musket&color=%230970ce
+[l13]: https://www.npmjs.com/package/@h3ravel/musket
+[i14]: https://img.shields.io/npm/v/%40h3ravel%2Furl?style=flat-square&label=@h3ravel/url&color=%230970ce
+[l14]: https://www.npmjs.com/package/@h3ravel/url
+[i15]: https://img.shields.io/npm/v/%40h3ravel%2Fview?style=flat-square&label=@h3ravel/view&color=%230970ce
+[l15]: https://www.npmjs.com/package/@h3ravel/view
+[i16]: https://img.shields.io/npm/v/%40h3ravel%2Fhashing?style=flat-square&label=@h3ravel/hashing&color=%230970ce
+[l16]: https://www.npmjs.com/package/@h3ravel/hashing
+[linl]: https://github.com/h3ravel/framework/blob/main/LICENSE
+[lini]: https://img.shields.io/github/license/h3ravel/framework
+[tel]: https://github.com/h3ravel/framework/actions/workflows/test.yml
+[tei]: https://github.com/h3ravel/framework/actions/workflows/test.yml/badge.svg
+[lMus]: https://www.npmjs.com/package/@h3ravel/musket
+[iMus]: https://img.shields.io/npm/dt/%40h3ravel%2Fmusket?style=flat-square&label=Musket&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40h3ravel%2Fmusket
+[lHas]: https://www.npmjs.com/package/@h3ravel/hashing
+[iHas]: https://img.shields.io/npm/dt/%40h3ravel%2Fhashing?style=flat-square&label=Hashing&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40h3ravel%2Fhashing
+[lSup]: https://www.npmjs.com/package/@h3ravel/support
+[iSup]: https://img.shields.io/npm/dt/%40h3ravel%2Fsupport?style=flat-square&label=Support&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40h3ravel%2Fsupport
+[lUrl]: https://www.npmjs.com/package/@h3ravel/url
+[iUrl]: https://img.shields.io/npm/dt/%40h3ravel%2Furl?style=flat-square&label=URL&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40h3ravel%2Furl
+[lSha]: https://www.npmjs.com/package/@h3ravel/shared
+[iSha]: https://img.shields.io/npm/dt/%40h3ravel%2Fshared?style=flat-square&label=Shared&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40h3ravel%2Fshared
